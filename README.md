@@ -12,6 +12,15 @@ If you use our work, please cite our paper [**Top Comment or Flop Comment? Predi
 
 ### Implementation
 
+The Python notebook `train_and_evaluate_model.ipynb` contains the source code for our experiments. 
+In order to run the experiments, the following additional files are required:
+* `guardian-300.bin` fasttext word embeddings that we trained on x billion tokens from TheGuardian.com comments. They can be downloaded from here (5.5GB): [Link](https://owncloud.hpi.de/s/8LjQz1nyFI3OZBe/download)
+* `amazon-300.bin` fasttext word embeddings that we trained on x billion tokens from Amazon.com reviews. They can be downloaded from here (4.8GB): [Link](https://owncloud.hpi.de/s/cUCEnFSiR2y47ta/download)
+* `comments_top_and_bottom_upvotes_10percent.csv` the top/flop 10% comments in the politics section with the largest/smallest relative number of upvotes received
+* `comments_top_and_bottom_replies_10percent.csv` the top/flop 10% comments in the politics section with the largest/smallest relative number of replies received
+* `reviews_books_top_10percent.csv` the top 10% book reviews on Amazon.com with the largest relative number of helpfulness upvotes received. The Amazon reviews dataset can be downloaded from here: [Link](https://nijianmo.github.io/amazon/index.html)
+* `reviews_books_bottom_10percent.csv` the flop 10% book reviews on Amazon.com with the smallest relative number of helpfulness upvotes received.
+
 ### Dataset
 This repository contains a python script `create_dataset.py` and four files `comment_ids_*` that list comment IDs.
 We provide a script to download a dataset of comments. The script accesses the Guardian’s Web API to download a predefined list of comments identified by their IDs.
