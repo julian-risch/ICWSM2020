@@ -1,7 +1,7 @@
 # ICWSM2020
 
 ### Citation
-If you use our work, please cite our paper [**Top Comment or Flop Comment? Predicting and Explaining User Engagement in Online News Discussions**](https://github.com/julian-risch/ICWSM2020/raw/master/risch2020top.pdf) as follows:
+If you use our work, please cite our paper [**Top Comment or Flop Comment? Predicting and Explaining User Engagement in Online News Discussions**](https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/people/risch/risch2020top.pdf) as follows:
 
     @inproceedings{risch2020top,
     author = {Risch, Julian and Krestel, Ralf},
