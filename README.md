@@ -11,7 +11,7 @@ If you use our work, please cite our paper [**Top Comment or Flop Comment? Predi
     }
     
 ### Acknowledgments
-Thanks to Johannes Filter, Cornelius Hagmeister and Thomas Kellermeier for their contribution to this project during the seminar [**Text Mining in Practice**](https://hpi.de/naumann/teaching/teaching/ss-18/text-mining-in-practice-ps-master.html).
+We would like to thank Johannes Filter, Cornelius Hagmeister and Thomas Kellermeier for their contribution to this project during the seminar [**Text Mining in Practice**](https://hpi.de/naumann/teaching/teaching/ss-18/text-mining-in-practice-ps-master.html).
 
 ### Implementation
 
