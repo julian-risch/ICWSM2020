@@ -9,6 +9,9 @@ If you use our work, please cite our paper [**Top Comment or Flop Comment? Predi
     title = {Top Comment or Flop Comment? Predicting and Explaining User Engagement in Online News Discussions},
     year = {2020}
     }
+    
+### Acknowledgments
+Thanks to Johannes Filter, Cornelius Hagmeister and Thomas Kellermeier for their contribution to this project during the seminar [**Text Mining in Practice**](https://hpi.de/naumann/teaching/teaching/ss-18/text-mining-in-practice-ps-master.html).
 
 ### Implementation
 
