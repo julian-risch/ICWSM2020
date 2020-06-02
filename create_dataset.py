@@ -146,10 +146,10 @@ args = parser.parse_args()
 
 
 if args.apikey==None:
-    args.apikey=#your_key
+    args.apikey=''#your_key
     
 if args.source==None:
-    args.source=#'default loading file
+    args.source=''#default loading file
 
 API_ENDPOINT = 'http://discussion.theguardian.com/discussion-api/'
 
