@@ -4,9 +4,10 @@
 If you use our work, please cite our paper [**Top Comment or Flop Comment? Predicting and Explaining User Engagement in Online News Discussions**](https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/people/risch/risch2020top.pdf) as follows:
 
     @inproceedings{risch2020top,
+    title = {Top Comment or Flop Comment? Predicting and Explaining User Engagement in Online News Discussions},
     author = {Risch, Julian and Krestel, Ralf},
     booktitle = {Proceedings of the International Conference on Web and Scoial Media (ICWSM)},
-    title = {Top Comment or Flop Comment? Predicting and Explaining User Engagement in Online News Discussions},
+    pages = {579-589},
     year = {2020}
     }
     
