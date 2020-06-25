@@ -6,7 +6,7 @@ If you use our work, please cite our paper [**Top Comment or Flop Comment? Predi
     @inproceedings{risch2020top,
     title = {Top Comment or Flop Comment? Predicting and Explaining User Engagement in Online News Discussions},
     author = {Risch, Julian and Krestel, Ralf},
-    booktitle = {Proceedings of the International Conference on Web and Scoial Media (ICWSM)},
+    booktitle = {Proceedings of the International Conference on Web and Social Media (ICWSM)},
     pages = {579-589},
     year = {2020}
     }
